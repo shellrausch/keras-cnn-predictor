@@ -1,0 +1,5 @@
+numpy
+Keras
+pillow
+h5py
+tensorflow
